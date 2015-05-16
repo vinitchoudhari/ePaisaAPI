@@ -1,2 +1,2 @@
-Testing add command
+Testing add command 
 Testing commit
